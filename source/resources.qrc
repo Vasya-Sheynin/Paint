@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Img/circle.png</file>
+        <file>Img/close file.png</file>
+        <file>Img/curved line.png</file>
+        <file>Img/open file.png</file>
+        <file>Img/rectangle.png</file>
+        <file>Img/save as.png</file>
+        <file>Img/straight line.png</file>
+        <file>Img/pen.png</file>
+        <file>Img/animate.png</file>
+        <file>Img/delete.png</file>
+        <file>Img/design.png</file>
+        <file>Img/move.png</file>
+        <file>Img/rotate.png</file>
+    </qresource>
+</RCC>
